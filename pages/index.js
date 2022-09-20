@@ -1,4 +1,5 @@
 import NavBar from '../components/navBar/NavBar'
+/* Importing the styles from the Home.module.scss file. */
 import styles from '../styles/Home.module.scss'
 import Image from "next/image";
 import moi from "../public/assets/imgProfil.png";
